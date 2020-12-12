@@ -7,4 +7,6 @@ The repository contains:
 
 2. Data Processor built using [Pandas](https://pandas.pydata.org/) and [Scikit-learn](https://scikit-learn.org),
 
-3. Data vectorization and tokenization steps implemented with [HuggingFace Transformers](https://huggingface.co/transformers/) tools and [PyTorch](https://pytorch.org/)...
+3. Data vectorization and tokenization steps implemented with [HuggingFace Transformers](https://huggingface.co/transformers/) tools and [PyTorch](https://pytorch.org/),
+
+4. Model architecture (see Model_Trainer)...
