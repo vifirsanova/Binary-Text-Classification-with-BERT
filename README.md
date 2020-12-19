@@ -1,4 +1,5 @@
 # Binary Text Classification with BERT
+
 A model for binary text classification used for VK publication categorization as a part of healthcare psycholinguistic research.
 
 The repository contains:
@@ -9,4 +10,6 @@ The repository contains:
 
 3. Data vectorization and tokenization steps implemented with [HuggingFace Transformers](https://huggingface.co/transformers/) tools and [PyTorch](https://pytorch.org/),
 
-4. Model architecture
+4. Model architecture,
+
+5. Code for the model prediction and evaluation.
