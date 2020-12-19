@@ -9,4 +9,4 @@ The repository contains:
 
 3. Data vectorization and tokenization steps implemented with [HuggingFace Transformers](https://huggingface.co/transformers/) tools and [PyTorch](https://pytorch.org/),
 
-4. Model architecture (see Model_Trainer)...
+4. Model architecture
